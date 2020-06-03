@@ -1,0 +1,66 @@
+.logo{
+    margin: 2px 2px 2px 39%;
+}
+.navbar{
+    margin: 46px 900px 0px -376px;
+}
+.container2{
+    margin-left: 8%;
+    font-size: 2.7rem;
+}
+.para{
+    margin: 0px 148px;
+}
+.for-history::before{
+   
+    height: 27%;
+    width: 40%;
+    margin-left: 55%;
+    margin-top: 19%;
+
+}
+.for-history2::before{
+    margin-left: 2%;
+    margin-top: 14%;
+    height: 41%;
+    width: 46%;
+}
+.heading-menu{
+    font-size: 27px;
+    margin-left: 27%;
+    display: none;
+}
+.menu2{
+    margin-left: -41px;
+    /* display: none; */
+}
+.menu-ul{
+    /* display: none; */
+}
+.menu-li{
+    /* display: none; */
+}
+.form_input{
+    padding: 6px;
+    padding-right: 76px;
+    margin-left: -50px;
+}
+.form_input2{
+    padding: 6px;
+    padding-right: 76px;
+    margin-left: -300px;
+}
+
+.contactdetails_reservation{
+margin-left: 100px;
+}
+.message_box {
+    margin-top: 1.2rem;
+    padding-right:524px;
+}
+.btn_make_reservation{
+    margin-left: -12%;
+}
+#Message{
+    margin-top: -65px;
+}
